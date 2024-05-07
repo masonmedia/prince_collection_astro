@@ -1,0 +1,60 @@
+body {
+    background: #ffffff;
+    font-family: 'Inter Tight', Helvetica, Arial, sans-serif;
+    max-width: 1900px;
+    overflow-x: hidden;
+    line-height: 1.4;
+    transition: all 0.5s ease-in-out;
+    margin: 0 auto;
+  }
+  
+  body,
+  nav,
+  .carousel {
+    max-width: 1900px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* general spacing setup */
+  
+  section {
+    padding: 2rlh;
+  }
+  
+  h1, h2, h3, h4, p {
+    margin-block: 1rlh;
+  }
+  
+  h1, .h1,
+  h2, .h2,
+  h3, .h3 {
+    font-family: 'Gloock', 'Times New Roman', Times, serif;
+    /* font-family: 'Red Hat Display', Helvetica, Arial, sans-serif; */
+    font-weight: 900;
+    letter-spacing: 0;
+  }
+  
+  p {
+    text-wrap: pretty;
+  }
+  
+  /* images */
+  
+  img {
+    width: 100%;
+    margin-inline: auto;
+    animation: animate-in 1s cubic-bezier(.6,-0.41,.46,1.22);
+    transition: all .3s ease-in-out;
+  }
+
+  .frame-content {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.9rem;
+  }
+  .frame-content img {
+    max-width: 100%;
+  }
