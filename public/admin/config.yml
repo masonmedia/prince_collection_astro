@@ -19,6 +19,7 @@ collections:
     extension: "json"
     folder: /src/content/blog # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
+    preview_path: blog/{{slug}}
     fields:
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Title", name: "title", widget: "string" } # Field Title
@@ -53,6 +54,7 @@ collections:
     name: news # Name of the collection used for various functionality in the CMS
     folder: /src/content/news # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
+    preview_path: news/{{slug}}
     fields:
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Title", name: "title", widget: "string" } # Field Title
@@ -87,6 +89,7 @@ collections:
     name: reviews # Name of the collection used for various functionality in the CMS
     folder: /src/content/reviews # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
+    preview_path: reviews/{{slug}}
     fields:
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Title", name: "title", widget: "string" } # Field Title
@@ -121,6 +124,7 @@ collections:
     name: guides # Name of the collection used for various functionality in the CMS
     folder: /src/content/guides # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
+    preview_path: guides/{{slug}}
     fields:
       - { label: "Draft", name: "draft", widget: "boolean", default: true}
       - { label: "Title", name: "title", widget: "string" } # Field Title
@@ -155,6 +159,7 @@ collections:
     name: authors # Name of the collection used for various functionality in the CMS
     folder: /src/content/authors # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
+    preview_path: authors/{{slug}}
     fields:
       - { label: "Name", name: "name", widget: "string" } # Field Title
       - { label: "Description", name: "description", widget: "string" } # Field Description
