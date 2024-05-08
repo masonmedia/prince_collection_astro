@@ -37,22 +37,13 @@ contents:
 
 Prince Collection’s Founder & CEO Ricky Zhang stayed at the Mandarin Oriental Hong Kong in February 2023. He was most impressed by the hotel’s status amongst Hong Kong’s “see and be seen” crowd, as well as the numerous fine dining establishments and the elevated service culture from start to finish. Situated in the heart of Hong Kong’s financial district, the Mandarin Oriental Hong Kong is among the most sought-after luxury hotels in the city. As the flagship hotel of the Mandarin Oriental Hotel Group, this property holds a special place in Hong Kong’s history, as it boasts sweeping harbour views, impeccable service, a Michelin-starred restaurant, and award-winning cocktails.
 
-<div class="row row-cols-1 row-cols-lg-3 g-3 py-3 px-0">
-  <div class="col">
+<div class="grid-2">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-review-1.jpeg" />
     </figure>
-  </div>
-  <div class="col">
-    <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-2.jpeg" />
-    </figure>
-  </div>
-  <div class="col">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-14.jpeg" />
-      </figure>
-  </div>
+     </figure>
 </div>
 
 ## Location
@@ -67,22 +58,16 @@ The hotel opened in 1963 right next to the harbour of Hong Kong Island and, at t
 
 The exemplary service at the Mandarin Oriental Hong Kong begins as soon as you arrive, with a warm greeting from the staff as you enter the spacious lobby.
 
-<div class="row row-cols-1 row-cols-lg-3 g-3 py-3 px-0">
-  <div class="col">
+<div class="grid-3">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-review-1.jpeg" />
+        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-carousel-1.jpeg" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-2.jpeg" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-3.jpeg" />
-      </figure>
-  </div>
+     </figure>
 </div>
 
 The lobby pays homage to the Mandarin Oriental’s Chinese roots through the soaring ceilings, dazzling chandeliers, and a harmonious blend of deep reds and golds. The clever interplay of bold floor patterns, rich colours, and textures imbues the space with a contemporary and eclectic feel, melding together the past and the present. The gracious hotel staff will facilitate your check-in to the right of the lobby in a separate check-in area.
@@ -93,42 +78,30 @@ The Mandarin Oriental Hong Kong offers many different room types, ranging from s
 
 (Gallery of intriguing room photos)
 
-<div class="row row-cols-1 row-cols-lg-3 g-3 py-3 px-0">
-  <div class="col">
+<div class="grid-3">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-4.jpeg" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-5.jpeg" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
         <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-6.jpeg" />
-      </figure>
-  </div>
+     </figure>
 </div>
 
 A standout feature in all room types is the bathroom, which features an opulent marble bathtub, striking black-and-white visual effects, and upscale bath amenities supplied by Diptyque.
 
-<div class="row row-cols-1 row-cols-lg-3 g-3 py-3 px-0">
-  <div class="col">
-    <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-7.jpeg" />
+<div class="one-big-two-small">
+  <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-7.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-8.jpeg" />
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-8.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-9.jpeg" />
-      </figure>
-  </div>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-9.jpeg" alt="" />
+    </figure>
 </div>
 
 The hotel is a square-shaped building that boasts four potential views depending on the location of your room: a city view to the west, a view of Statue Square to the east, a harbour view to the north, and a non-descript option to the south.
@@ -141,22 +114,16 @@ When booking through Mandarin Oriental Fan Club, you may be entitled to upgrade 
 
 Guests of the Mandarin Oriental Hong Kong who book a Club-level room or suite will have access to The Mandarin Club, the hotel’s executive lounge.
 
-<div class="row row-cols-1 row-cols-lg-3 g-3 py-3 px-0">
-  <div class="col">
-    <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-11.jpeg" />
+<div class="one-big-two-small">
+  <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-11.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-12.jpeg" />
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-12.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-13.jpeg" />
-      </figure>
-  </div>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-13.jpeg" alt="" />
+    </figure>
 </div>
 
 Situated on the 23rd floor, the newly renovated space boasts an exquisite, sleek design, complete with a stunning shattered floor effect. The Mandarin Club offers a variety of dining options, including a breakfast buffet, afternoon tea, and evening hors d’oeuvres with cocktails. Guests can enjoy service in an impressive and thoughtfully arranged dining area that features plush furnishings in shades of pink, purple, and magenta, or in the extensive additional seating areas which offer opportunities to take in a panoramic view.
