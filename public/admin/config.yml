@@ -109,13 +109,6 @@ collections:
         collapsed: true
         fields:
           - {label: Image, name: url, widget: image, required: false}
-      - label: "What's in this post"
-        name: "TableOfContents"
-        widget: list
-        required: false
-        collapsed: true
-        fields:
-          - {label: Headings, name: headings, widget: string, required: false}
       - label: "Gallery"
         name: "gallery"
         widget: list
