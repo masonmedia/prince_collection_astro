@@ -165,19 +165,16 @@ Situated on the 23rd floor, the newly renovated space boasts an exquisite, sleek
 
 The Mandarin Oriental Hong Kong boasts a very comprehensive range of dining venues.
 
-![](/images/uploads/mandarin-hong-kong-14.jpeg)
-
-<div class="row row-cols-1 row-cols-lg-2 g-3 py-3 px-0">
-  <div class="col">
-    <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-15.jpeg" />
+<div class="one-big-two-small">
+  <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-14.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-16.jpeg" />
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-15.jpeg" alt="" />
     </figure>
-  </div>
+    <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-16.jpeg" alt="" />
+    </figure>
 </div>
 
 Of note is the hotel’s Michelin-starred restaurant, Man Wah, situated on the 25th floor. Here, guests can enjoy a refined Cantonese dining experience complete with views of Victoria Harbour. The restaurant’s Art Deco style, featuring dark-blue walls and a gold and blue accented carpet, creates a modern and chic look. Also on the 25th floor, The Aubrey is a super-trendy Japanese izakaya with a lively bar that's been recognized as one of Asia’s 50 Best Bars. The venue exudes trendy glamour, with a stylish dining room, plush furnishings, large chandeliers, and lots of greenery.
@@ -188,19 +185,16 @@ Moreover, the Mandarin Oriental Hong Kong is home to the Krug Room, a fine dinin
 
 It’s easy to keep in shape and get pampered at the Mandarin Oriental Hong Kong.
 
-![](/images/uploads/mandarin-hong-kong-17.jpeg)
-
-<div class="row row-cols-1 row-cols-lg-2 g-3 py-3 px-0">
-  <div class="col">
-    <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-18.jpeg" />
+<div class="one-big-two-small">
+  <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-17.jpeg" alt="" />
     </figure>
-  </div>
-  <div class="col">
     <figure>
-        <img alt="" class="grid-image" src="/images/uploads/mandarin-hong-kong-19.jpeg" />
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-18.jpeg" alt="" />
     </figure>
-  </div>
+    <figure>
+        <img class="grid-image" src="/images/uploads/mandarin-hong-kong-19.jpeg" alt="" />
+    </figure>
 </div>
 
 The Spa at Mandarin Oriental Hong Kong has received numerous awards and accolades, and is widely held as one of the top spas in Asia, offering a wide range of treatments and services in a stylish contemporary setting. In addition to the treatments, the facilities at the spa also include a sauna, steam room, relaxation room, and underwater air beds. To keep fit on the road, the Mandarin Oriental Hong Kong provides a top-notch fitness centre with an extensive array of equipment including free weights, a Smith machine, a punching bag, cable machines, and more. Lastly, the hotel features a small swimming pool on the uppermost floor, and for guests looking to freshen up without leaving the property, there's a salon and barbershop.
