@@ -109,6 +109,13 @@ collections:
         collapsed: true
         fields:
           - {label: Image, name: url, widget: image, required: false}
+      - label: "What's in this post"
+        name: "TableOfContents"
+        widget: list
+        required: false
+        collapsed: true
+        fields:
+          - {label: Headings, name: headings, widget: string, required: false}
       - label: "Gallery"
         name: "gallery"
         widget: list
@@ -116,14 +123,7 @@ collections:
         collapsed: true
         fields:
           - {label: Image, name: url, widget: image, required: false}
-      - label: "Table of Contents"
-        name: "contents"
-        widget: "list"
-        default: ["Comma separated list of all article section titles"], 
-        required: false
-        collapsed: true
-        fields:
-          - {label: Heading, name: heading, widget: string, required: true}
+      - {label: "Table of Contents", name: "contents", widget: "list", default: ["Comma separated list of all main section titles"], required: false }
       - {label: "Body", name: "body", widget: "markdown"}
 
   - label: guides # Label used in the UI for the collection
