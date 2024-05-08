@@ -1,0 +1,19 @@
+{
+  "draft": true,
+  "body": "# Resources for writers \n\nThe code snippets below create image grids for varying post layouts. \n\n**It's important to copy and paste the code exactly as written and take care to be sure there are no extra characters, periods, commas, etc as this will cause errors on the frontend when published.**\n\n## 2x Image grid\n\nThis code snippet creates a grid of two images side by side that stack to vertical on mobile. Copy this code and paste it where you want the grid in your post.\n\n<div class=\"grid-2\">\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-1.jpeg\" alt=\"\"  />\n    </figure>\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-2.jpeg\" alt=\"\"  />\n     </figure>\n</div> \n\n## 3x Image grid\n\nThis code snippet creates a grid of three images side by side that stack to vertical on mobile. Copy this code and paste it where you want the grid in your post.\n\n<div class=\"grid-3\">\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-review-1.jpeg\" alt=\"\"  />\n    </figure>\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-2.jpeg\" alt=\"\"  />\n    </figure>\\\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-3jpeg\" alt=\"\"  />\n    </figure>\n</div> \n\n## \"One big, two small\" 3x Image grid\n\nThis code snippet creates a custom grid with a single large image on top, and two smaller images underneath, hence ***one big, two small***. \n\n<div class=\"one-big-two-small\">\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-review-1.jpeg\" alt=\"\"  />\n    </figure>\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-2.jpeg\" alt=\"\"  />\n    </figure>\\\n    <figure>\n        <img class=\"grid-image\" src=\"/images/uploads/mandarin-hong-kong-3jpeg\" alt=\"\"  />\n    </figure>\n</div>",
+  "pubDate": "2024-05-08T12:22:00.000Z",
+  "author": "Prince Collection",
+  "featured": false,
+  "imageAlt": "n/a",
+  "imageUrl": "/images/uploads/brando-24.jpeg",
+  "title": "Resources for writers",
+  "tags": [
+    "blog"
+  ],
+  "contents": [
+    "Comma separated list of all main section titles"
+  ],
+  "description": "A list of FAQ, trouble shooting tips, and image grid code snippets.",
+  "category": "blog",
+  "SEOdescription": "n/a"
+}
