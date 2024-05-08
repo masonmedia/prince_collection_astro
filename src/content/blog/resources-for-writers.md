@@ -24,17 +24,19 @@ contents:
   - faucibus-nisl-tincidunt
   - another-h2
 ---
-
 # Resources for writers
 
 
 - - -
 
 
-# Main post title
+# Headings
 
 
-Make post title an H1 and all subsequent headings H2. If using an unordered (bullet) list subtitles can be H4.
+Make the post title an H1 and all subsequent headings H2. If using an unordered (bullet) list subtitles can be H4.
+
+
+To revert a heading back to paragraph/body text, just re-click the same heading; i.e. click "Heading 2" a second time on the same element to change it back.
 
 
 ### Adding images and image grids
@@ -43,10 +45,10 @@ Make post title an H1 and all subsequent headings H2. If using an unordered (bul
 Copying and pasting the code snippets below allows writers to add image galleries to posts. 
 
 
-> **It's important to copy and paste the code exactly as written, and take care to be sure there are no extra characters, periods, commas, back ticks, etc. They will cause errors on the front end when published.**
+> ***It's important to copy and paste the code exactly as written, and take care to be sure there are no extra characters, periods, commas, back ticks, etc. They will cause errors on the front end when published.***
 
 
-*\*Occasionally the editor will add characters to raw HTML especially backslashes but watch for periods, commas, etc.*
+*\*Occasionally the editor will add characters to raw HTML especially backslashes, and backticks but watch for periods, commas, etc.*
 
 
 ### Steps
@@ -65,9 +67,9 @@ Copying and pasting the code snippets below allows writers to add image gallerie
 
 * First, name all your article images **before** uploading them to the CMS. 
 * This keeps the image library clean and organized, and prevents rogue images with names like IMG_32459875 that are impossible to keep track of.
-* use a convention like the following: **article-name-1.jpeg** i.e. waldorf-astoria-cabo-san-lucas-1.jpeg, waldorf-astoria-cabo-san-lucas-2.jpeg
-* this allows you to search images in the media folder for ease of selection throughout the writing process
-* Add/upload ONLY images you actually use. This keeps the site payload as small and efficient as possible.
+* use a convention like the following: **article-name-1.jpeg** i.e. waldorf-astoria-cabo-san-lucas-1.jpeg, waldorf-astoria-cabo-san-lucas-2.jpeg, etc.
+* this allows you to search images in the media folder for ease of selection throughout the writing process and add or experiment with image combinations easily using numbers rather than having to copy a whole new image path.
+* **Only add/upload images you actually use.** This keeps the media folder organized, and the overall site payload as small and efficient as possible.
 
 
 ### Uploading images
@@ -77,7 +79,7 @@ Copying and pasting the code snippets below allows writers to add image gallerie
 * Do not leave an empty image widget in your post => it will break the page/site
 
 
-### Adding images to your grid gallery
+## Adding image file paths to the code in your grid gallery
 
 
 * add an image widget (from the top menu/toolbar click the + and a dropdown will appear, select "Image") above or below your gallery code, just to use as a way to select images from the library
@@ -97,7 +99,7 @@ Copying and pasting the code snippets below allows writers to add image gallerie
 </figure>
 
 
-### 2-column grid
+## 2-column grid
 
 
 This gallery creates a 2-column side-by-side grid. You can also add 4 images like below to get a 4-grid gallery. 
@@ -129,7 +131,7 @@ This gallery creates a 2-column side-by-side grid. You can also add 4 images lik
 </div>
 
 
-### 3-column grid
+## 3-column grid
 
 
 This gallery creates a 3-column side-by-side grid. The drawback to this variation is the images are a little small. Best to use for instances where images have lower content/meaning, plane window, runway, arrival, etc.
@@ -148,10 +150,10 @@ This gallery creates a 3-column side-by-side grid. The drawback to this variatio
 </div>
 
 
-### One big, two small
+## One big, two small
 
 
-This gallery creates a big feature image with two smaller images side-by-side underneath it.
+This gallery creates a full width top image with two smaller images underneath it.
 
 
 <div class="one-big-two-small">
@@ -170,7 +172,7 @@ This gallery creates a big feature image with two smaller images side-by-side un
 ## Using figure and figcaption
 
 
-If desired you can copy/paste the `<figcaption>`element which adds a text description of the image just below it. **It isn't necessary and if used needs to be added to every other image in the grid so it doesn't a) look imbalanced, and b) misalign spacing.**
+If desired, you can copy/paste the `<figcaption>`element which adds a text description of the image just below it. **It isn't necessary and if used needs to be added to every other image in the grid so it doesn't a) look imbalanced, and b) misalign spacing.**
 
 
 <figure>
@@ -200,4 +202,4 @@ To activate the table of contents at the start of the post, copy and paste each 
 ## Text layout
 
 
-For ease of reading and UX expectation, avoid short sentences broken into unique lines as a general post writing style. It makes it difficult to know where a main concept/section starts and ends, and gives the page a disjointed look more akin to a list than an article.
+For ease of reading and UX expectation, avoid short sentences that are broken into unique lines as a general post writing style. It makes it difficult to know where a main concept/section starts and ends, and gives the page a disjointed look more like a list than an article.
