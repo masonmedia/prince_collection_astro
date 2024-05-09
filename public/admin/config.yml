@@ -16,7 +16,6 @@ collections:
   - label: blog # Label used in the UI for the collection
     label_singular: post # Label for singular post
     name: blog # Name of the collection used for various functionality in the CMS
-    extension: "json"
     folder: /src/content/blog # Where each new post with .md should be saved
     create: true # Allows users to create new items in the collection
     preview_path: blog/{{slug}}
